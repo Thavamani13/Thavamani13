@@ -1,8 +1,4 @@
 ### Hi there 👋
-
-<!--
-**Thavamani13/Thavamani13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I am a Test Automation Engineer from Chennai
 - 🔭 Working on frontend and backend Automation
 - 🌱 Learning design patterns in depth

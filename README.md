@@ -1,5 +1,5 @@
 ### Hi there 👋, Thavamani 
-#### I am a Test Automation Engineer
+#### I'm an Automation tester, having experience in writing scripts using Serenity BDD with the help of tools like Cucumber, Junit.
 
 - 🔭 I’m currently working on UI Automation 
 - 🌱 I’m currently learning Problem solving skills 

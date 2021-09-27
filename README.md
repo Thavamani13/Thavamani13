@@ -23,7 +23,6 @@ YAML         2 mins          ░░░░░░░░░░░░░░░░░
 #### Github Stats
 
 ![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=Thavamani13&count_private=true&theme=tokyonight&hide=contribs,prs)
-
 </details>
   
   

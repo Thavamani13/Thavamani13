@@ -2,11 +2,11 @@
 
 I'm Thavamani Murugan working as a Test Automation Engineer 
 :mailbox: Reach me out!
-(https://www.linkedin.com/in/thavamani-murugan-sdet/) [![Mail Badge]
-(mailto:thavamani304@gmail.com)
+(https://www.linkedin.com/in/thavamani-murugan-sdet/) 
+![Mail Badge](mailto:thavamani304@gmail.com)
 #### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ipenywis.ipenywis)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=thavamani13.thavamani13)
 
 #### Coding Stats
 

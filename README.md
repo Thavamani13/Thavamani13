@@ -1,28 +1,11 @@
-## Hi I'm Thavamani <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+### Hi there 👋, Thavamani 
+#### I'm an Automation tester, having experience in writing scripts using Serenity BDD with the help of tools like Cucumber, Junit.
 
-I'm Thavamani Murugan working as a Test Automation Engineer 
-:mailbox: Reach me out!
-(https://www.linkedin.com/in/thavamani-murugan-sdet/) 
-![Mail Badge](mailto:thavamani304@gmail.com)
-#### Profile Visits 
+- 🔭 I’m currently working on UI Automation 
+- 🌱 I’m currently learning Problem solving skills 
+- 📫 How to reach me: https://www.linkedin.com/in/thavamani-murugan-sdet/ 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=thavamani13.thavamani13)
 
-#### Coding Stats
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Thavamani13)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Thavamani/)  
 
-<!--START_SECTION:waka-->
-```text
-TypeScript   15 hrs 41 mins  ████████████████████▓░░░░   82.29 % 
-HTML         1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-Markdown     1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-YAML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-```
-<!--END_SECTION:waka-->
-
-#### Github Stats
-
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=Thavamani13&count_private=true&theme=tokyonight&hide=contribs,prs)
-</details>
-  
-  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Thavamani13&show_icons=true)  ![image](https://user-images.githubusercontent.com/41247484/134951437-e38876ca-4509-476f-b404-86267a57adb7.png)

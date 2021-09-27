@@ -2,7 +2,7 @@
 
 I'm Thavamani Murugan working as a Test Automation Engineer 
 :mailbox: Reach me out!
-(https://www.linkedin.com/in/islem-maboud/) [![Mail Badge](https://img.shields.io/badge/-@islempenywis-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)]
+(https://www.linkedin.com/in/thavamani-murugan-sdet/) [![Mail Badge](https://img.shields.io/badge/-@islempenywis-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)]
 (mailto:thavamani304@gmail.com)
 #### Profile Visits 
 

@@ -11,3 +11,4 @@
 <a href="https://github.com/LakshminarayananG">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thavamani13&layout=compact&hide_border=true&hide=Jupyter%20Notebook ,html,Tex&langs_count=8&theme=tokyonight" />
 </a>
+

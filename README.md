@@ -29,7 +29,7 @@ I'm a **Senior SDET specializing in Payments Quality Engineering** at [Zuora](ht
 ### 🔬 [pentest-ai-agent](https://github.com/Thavamani13/pentest-ai-agent)
 > **AI-powered security testing pipeline** | Claude Code + Burp Suite MCP + Nmap + SQLMap + FFUF
 
-An agentic security testing framework integrating Burp Suite MCP with Claude Code, automated OWASP Top 10 workflows, and real IDOR discovery on live payment APIs. Published findings on [Medium](https://medium.com/@thavamani).
+An agentic security testing framework integrating Burp Suite MCP with Claude Code, automated OWASP Top 10 workflows, and real IDOR discovery on live payment APIs. Published findings on [Medium](https://medium.com/@thavamani1304).
 
 **Stack:** `Claude Code` `Burp Suite MCP` `OWASP` `Nmap` `SQLMap` `FFUF`
 
